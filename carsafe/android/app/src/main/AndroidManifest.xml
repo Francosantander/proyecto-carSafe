@@ -1,15 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.carsafe">
-
-    <!-- Permiso de internet -->
-    <uses-permission android:name="android.permission.INTERNET" />
-
-    
-    <!-- Permiso del GPS -->
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-
+    package="com.um.edu.ar.carsafe">
    <application
         android:label="carsafe"
         android:name="${applicationName}"
